@@ -11,13 +11,13 @@
 }
 
 .head-image-expanded {
-    min-width: 250px;
-    max-width: 250px;
+    min-width: 450px;
+    max-width: 450px;
 }
 
 .head-image-contracted {
-    min-width: 60px;
-    max-width: 40px;
+    min-width: 260px;
+    max-width: 240px;
 }
 .head-text {
     font-family: 'Hachi Maru Pop', cursive;
@@ -26,8 +26,8 @@
 }
 
 .head-text-expanded {
-    font-size: 36px;
+    font-size: 136px;
 }
 .head-text-contracted {
-    font-size: 16px;
+    font-size: 36px;
 }
